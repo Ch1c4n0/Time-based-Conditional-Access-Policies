@@ -1,0 +1,15 @@
+{
+  "conditions": {
+    "times": {
+      "includeAllTimes": false,
+      "includeDays": {
+        "daysOfWeek": [
+          "saturday","sunday"
+        ],
+        "timeZone": "E. South America Standard Time",
+        "startTime": "00:00:00",
+        "endTime": "23:59:59"
+      }
+    }
+  }
+}
