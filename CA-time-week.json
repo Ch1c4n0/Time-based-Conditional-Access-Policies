@@ -1,0 +1,15 @@
+{
+  "conditions": {
+    "times": {
+      "includeAllTimes": false,
+      "includeDays": {
+        "daysOfWeek": [
+          "monday","tuesday","wednesday","thursday","friday"
+        ],
+        "timeZone": "E. South America Standard Time",
+        "startTime": "08:00:00",
+        "endTime": "12:59:59"
+      }
+    }
+  }
+}
