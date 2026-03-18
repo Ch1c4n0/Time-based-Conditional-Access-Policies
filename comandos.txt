@@ -1,0 +1,20 @@
+Configuring Time-based Conditional Access Policies
+
+
+GET
+https://graph.microsoft.com/beta/identity/conditionalAccess/policies?$select=id,displayName,state
+
+https://graph.microsoft.com/beta/identity/conditionalAccess/policies/policy_id
+
+
+PATCH
+
+https://graph.microsoft.com/beta/identity/conditionalAccess/policies/policy_id
+
+
+Permissões necessárias
+
+Consent type
+Application.Read.All
+Policy.Read.All
+Policy.ReadWrite.ConditionalAccess
